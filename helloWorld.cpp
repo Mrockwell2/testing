@@ -3,4 +3,5 @@ using namespace std;
 
 int main() {
 	cout << "Letter A" << endl;
+	cout << "Letter B" << endl;
 }
